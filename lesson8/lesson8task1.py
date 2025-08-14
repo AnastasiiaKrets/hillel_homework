@@ -24,7 +24,7 @@ def test_add_one():
     assert add_one([9]) == [1, 0], 'Test4'
     assert add_one([4, 2, 9]) == [4, 3, 0], 'Extra Test5'
     assert add_one([1, 0, 0, 0]) == [1, 0, 0, 1], 'Extra Test6'
-    print("✅ Усі тести пройдено")
+    print("ok")
 
 
 # Запуск тестів
