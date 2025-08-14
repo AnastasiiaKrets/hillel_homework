@@ -26,6 +26,3 @@ def test_is_palindrome() -> None:
     assert is_palindrome('Madam') == True, 'Extra Test5'
     assert is_palindrome('No lemon, no melon!') == True, 'Extra Test6'
     print("ok")
-
-# Запуск тестів
-test_is_palindrome()
