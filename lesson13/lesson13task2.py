@@ -38,7 +38,7 @@ class Counter:
         return self.current
 
 
-# --- Перевірка ---
+# Перевірка 
 counter = Counter()
 counter.set_current(7)
 counter.step_up()
